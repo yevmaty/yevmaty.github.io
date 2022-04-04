@@ -11,6 +11,13 @@ p {
   font-size: 16px;
 }
 
+ol {
+  list-style: lower-latin;
+}
+ul {
+  list-style: square;
+}
+
 .classDiv {
   border: 2px dotted;
   width: 200px;
