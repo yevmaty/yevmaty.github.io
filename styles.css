@@ -1,0 +1,18 @@
+body {
+  background-color: Ivory;
+  color: Gray;
+}
+h1 {
+  font-size: 20px;
+}
+p {
+  color: DarkBlue;
+  background-color: Lavender;
+  font-size: 16px;
+}
+
+.class-div {
+  border: 2px dotted;
+  width: 200px;
+  height: 200px;
+}
