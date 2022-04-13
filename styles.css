@@ -18,6 +18,12 @@ ul {
   list-style: square;
 }
 
+a.fixed {
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
 .classDiv {
   border: 2px dotted;
   width: 200px;
