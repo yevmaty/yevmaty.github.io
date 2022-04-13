@@ -4,6 +4,8 @@ body {
 }
 h1 {
   font-size: 20px;
+  border: 2px;
+  text-align: center;
 }
 p {
   color: DarkBlue;
@@ -20,8 +22,10 @@ ul {
 
 a.fixed {
   position: fixed;
+  border-radius: 2px;
   left: 0;
   top: 0;
+  background-color: Green;
 }
 
 .classDiv {
