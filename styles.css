@@ -25,11 +25,31 @@ a.fixed {
   border-radius: 2px;
   left: 0;
   top: 0;
-  background-color: Green;
+  background-color: Blue;
 }
 
 .classDiv {
   border: 2px dotted;
   width: 200px;
   height: 200px;
+}
+
+header.header {
+  background-color: Yellow;   
+}
+
+nav.nav {
+  background-color: Red;  
+}
+
+section.sectionarticle {
+  background-color: Blue;  
+}
+
+aside.aside {
+  background-color: Green;
+}
+
+footer.footer {
+  background-color: Purple; 
 }
