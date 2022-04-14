@@ -8,7 +8,7 @@ h1 {
   text-align: center;
 }
 p {
-  color: GoldenRod;
+  color: #DAA520;
   background-color: Lavender;
   font-size: 16px;
 }
@@ -25,7 +25,7 @@ a.fixed {
   border-radius: 2px;
   left: 0;
   top: 0;
-  background-color: Brown;
+  background-color: #D2691E;
 }
 
 .classDiv {
@@ -35,21 +35,21 @@ a.fixed {
 }
 
 header.header {
-  background-color: AntiqueWhite;   
+  background-color: #FAEBD7;   
 }
 
 nav.nav {
-  background-color: Bisque;  
+  background-color: #FFE4C4;  
 }
 
 section.sectionarticle {
-  background-color: BlanchedAlmond;  
+  background-color: #FFEBCD;  
 }
 
 aside.aside {
-  background-color: Cornsilk;
+  background-color: #FFF8DC;
 }
 
 footer.footer {
-  background-color: Khaki; 
+  background-color: #F0E68C; 
 }
