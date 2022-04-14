@@ -8,7 +8,7 @@ h1 {
   text-align: center;
 }
 p {
-  color: DarkBlue;
+  color: GoldenRod;
   background-color: Lavender;
   font-size: 16px;
 }
@@ -25,7 +25,7 @@ a.fixed {
   border-radius: 2px;
   left: 0;
   top: 0;
-  background-color: Blue;
+  background-color: Brown;
 }
 
 .classDiv {
@@ -35,21 +35,21 @@ a.fixed {
 }
 
 header.header {
-  background-color: Yellow;   
+  background-color: AntiqueWhite;   
 }
 
 nav.nav {
-  background-color: Red;  
+  background-color: Bisque;  
 }
 
 section.sectionarticle {
-  background-color: Blue;  
+  background-color: BlanchedAlmond;  
 }
 
 aside.aside {
-  background-color: Green;
+  background-color: Cornsilk;
 }
 
 footer.footer {
-  background-color: Purple; 
+  background-color: Khaki; 
 }
