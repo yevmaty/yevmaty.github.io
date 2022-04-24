@@ -53,3 +53,16 @@ aside.aside {
 footer.footer {
   background-color: #F0E68C; 
 }
+
+header,
+section,
+aside,
+footer {
+  margin: 0 1.5% 24px 1.5%;
+}
+
+#profile {
+    padding-top: 5px;
+    float: right;
+    border-radius: 50px;
+}
