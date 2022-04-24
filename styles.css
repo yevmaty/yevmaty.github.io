@@ -61,6 +61,11 @@ footer {
   margin: 0 1.5% 24px 1.5%;
 }
 
+section {
+  display: inline-block;
+  width: 30%;
+}
+
 #profile {
     padding-top: 5px;
     float: right;
