@@ -53,6 +53,12 @@ footer.footer {
   background-color: #F0E68C; 
 }
 
+progress {
+    background: black;
+    text-align: right;   
+    float: right;
+}
+
 header,
 section,
 aside,
@@ -60,7 +66,7 @@ footer {
   margin: 0 1.5% 24px 1.5%;
 }
 
-section {
+section, div {
   display: inline-block;
   width: 30%;
 }
